@@ -1,0 +1,44 @@
+{ 
+    "_id" : "5b2367d6a6920f25cc35af7c", 
+    "tenantId" : "IVL", 
+    "applicationCode" : "FLUX-CDA", 
+    "menuGroupCode" : "Administration", 
+    "title" : "ADMINISTRATION", 
+    "menuItems" : [
+        {
+            "_id" : "5b2367d6a6920f25cc35af81", 
+            "menuItemType" : "menu", 
+            "applicationCode" : "FLUX-CDA", 
+            "menuItemCode" : "ROLE", 
+            "title" : "Role Management"
+        }, 
+        {
+            "_id" : "5b2367d6a6920f25cc35af80", 
+            "menuItemType" : "menu", 
+            "applicationCode" : "FLUX-CDA", 
+            "menuItemCode" : "USER", 
+            "title" : "User Management"
+        }, 
+        {
+            "_id" : "5b2367d6a6920f25cc35af7f", 
+            "menuItemType" : "button", 
+            "applicationCode" : "FLUX-CDA", 
+            "menuItemCode" : "create", 
+            "title" : "Create Role"
+        }, 
+        {
+            "_id" : "5b2367d6a6920f25cc35af7e", 
+            "menuItemType" : "button", 
+            "applicationCode" : "FLUX-CDA", 
+            "menuItemCode" : "create", 
+            "title" : "Create User"
+        }, 
+        {
+            "_id" : "5b2367d6a6920f25cc35af7d", 
+            "menuItemType" : "button", 
+            "applicationCode" : "FLUX-CDA", 
+            "menuItemCode" : "modify", 
+            "title" : "Modify"
+        }
+    ]
+}
